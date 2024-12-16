@@ -51,7 +51,7 @@ class HomePage extends StatelessWidget {
 
               SizedBox(height: 20),
               _buildStyledButton(
-                text: 'Mis caracteres',
+                text: 'Mis personajes',
                 icon: Icons.favorite_rounded,
                 color: Color(0xFF4CAF50), // Green
                 onPressed: () => Navigator.push(
